@@ -8,10 +8,14 @@
   display: none;
 }
 
-div#wall #tag-3.'slick wicked'{
+div#wall #tag-3[class='slick wicked']{
   display: none;
 }
 
 #wall .parent #tag-4{
+  display: none;
+}
+
+#wall .parent #tag-6{
   display: none;
 }
