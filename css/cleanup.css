@@ -8,11 +8,11 @@ body #wall #tag-2 {
   display: none;
 }
 
-/*
-body div#wall #tag-3 [class="slick wicked"]{
+
+body #wall #tag-3{
   display: none;
 }
-*/
+
 
 #wall .parent #tag-4{
   display: none;
